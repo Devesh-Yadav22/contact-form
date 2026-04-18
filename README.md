@@ -4,10 +4,6 @@
 
 A sleek, modern, and fully functional contact form designed for seamless user interaction. This project features a polished UI with real-time validation and a responsive layout.
 
-<div align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/contact-us-illustration-download-in-svg-png-gif-file-formats--call-support-customer-service-communication-pack-illustrations-5381831.png" alt="Contact Form Illustration" width="500">
-</div>
-
 <br />
 
 ## ✨ Features
@@ -21,6 +17,9 @@ A sleek, modern, and fully functional contact form designed for seamless user in
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
+- **Frontend:** HTML5, CSS3, JavaScript (Vanilla).
+- **Deployment:** Render (Static Site).
 
 ## 🚀 How to Use
 1. **Clone the Repo:**
