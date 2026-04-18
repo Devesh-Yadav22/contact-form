@@ -1,20 +1,16 @@
-# 📬 Contact Form
+# 📝 TaskMaster Pro
 
-> 🚀 **[Live Demo: Click here to view the Contact Form on Render!](https://contact-form-5c9i.onrender.com)**
+> 🚀 **[Live Demo: Click here to view the Todo App on Render!](https://todo-list-app-ykrr.onrender.com/)**
 
-A sleek, modern, and fully functional contact form designed for seamless user interaction. This project features a polished UI with real-time validation and a responsive layout.
-
-<div align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/contact-us-illustration-download-in-svg-png-gif-file-formats--call-support-customer-service-communication-pack-illustrations-5381831.png" alt="Contact Form Illustration" width="500">
-</div>
+A high-performance, minimalist Todo application built for clarity and productivity. Manage your daily workflow with a fluid interface that prioritizes your tasks without the clutter.
 
 <br />
 
 ## ✨ Features
-- **Modern UI/UX:** Clean, minimalist design using glassmorphism effects and smooth transitions.
-- **Form Validation:** Client-side validation to ensure all fields (Name, Email, Message) are correctly filled before submission.
-- **Fully Responsive:** Optimized for all devices, from mobile phones to large desktop monitors.
-- **Interactive Feedback:** Visual feedback on hover and focus states to enhance the user experience.
+- **Effortless Task Management:** Quickly add, complete, and delete tasks with a single click.
+- **Persistent Progress:** Designed to keep your workflow organized and your goals in sight.
+- **Adaptive UI:** Fully responsive design that scales beautifully from mobile screens to ultrawide monitors.
+- **Modern Design:** Focused on clean typography, intuitive spacing, and smooth interactive states.
 
 ## 🛠️ Technologies Used
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,7 +18,8 @@ A sleek, modern, and fully functional contact form designed for seamless user in
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-## 🚀 How to Use
-1. **Clone the Repo:**
+## 🚀 Getting Started
+
+1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/Devesh-Yadav22/contact-form.git](https://github.com/Devesh-Yadav22/contact-form.git)
+   git clone [https://github.com/Devesh-Yadav22/todo-list-app.git](https://github.com/Devesh-Yadav22/todo-list-app.git)
