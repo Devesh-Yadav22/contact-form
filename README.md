@@ -5,7 +5,7 @@
 A sleek, modern, and fully functional contact form designed for seamless user interaction. This project features a polished UI with real-time validation and a responsive layout.
 
 <div align="center">
-  <img src="contact-demo.png" alt="Contact Form Screenshot" width="600">
+  <img src="https://img.freepik.com/free-vector/contact-us-concept-illustration_114360-2291.jpg" alt="Contact Form Illustration" width="450">
 </div>
 
 <br />
